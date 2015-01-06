@@ -1,0 +1,439 @@
+participant_id,age,gender,hearing_problems,speech_problems,years_actively_using_music_tech,frequency_using_music_tech,years_actively_making_music,frequency_making_music,years_actively_singing,frequency_singing
+6248007305527296,18,f,False,False,2.0,Once or twice a month,1.0,Once or twice a month,1.0,Once or twice a year
+4732466287869952,19,f,False,False,2.0,Once or twice a year,7.0,Once or twice a month,0.0,Never
+5207063395303424,19,m,False,False,6.0,Once or twice a week,7.0,More than once or twice a week,11.0,More than once or twice a week
+5433951820709888,19,m,False,False,6.0,Once or twice a month,7.0,More than once or twice a week,72.0,Once or twice a week
+6217263929622528,19,m,False,False,12.0,More than once or twice a week,4.0,More than once or twice a week,0.0,Never
+4680144056745984,20,m,False,False,10.0,Once or twice a week,0.0,Never,0.0,Less than once or twice a year
+4783777255522304,20,f,False,False,76.0,Once or twice a month,147.0,More than once or twice a week,147.0,More than once or twice a week
+4792479396134912,20,m,False,False,10.0,Never,0.0,Never,0.0,Never
+4866397729456128,20,m,False,True,37.0,Less than once or twice a year,0.0,Never,0.0,Never
+4893732646158336,20,f,False,False,0.0,Never,9.0,Less than once or twice a year,0.0,Once or twice a week
+5486481082679296,20,m,False,False,90.0,More than once or twice a week,35.0,More than once or twice a week,74.0,More than once or twice a week
+5665304193531904,20,m,False,False,3.0,Once or twice a month,6.0,Once or twice a week,3.0,More than once or twice a week
+6013727576948736,20,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+6316902607486976,20,m,False,False,0.0,Never,0.0,Less than once or twice a year,9.0,More than once or twice a week
+6345891153707008,20,m,False,False,14.0,Once or twice a month,12.0,Less than once or twice a year,0.0,Never
+6455894862725120,20,m,False,True,67.0,Once or twice a year,6.0,More than once or twice a week,0.0,Never
+4866334043144192,21,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+5082106220773376,21,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5169916760031232,21,m,False,False,10.0,More than once or twice a week,87.0,More than once or twice a week,87.0,More than once or twice a week
+5481482344726528,21,f,False,False,0.0,Never,0.0,Never,3.0,More than once or twice a week
+5704147139559424,21,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6469122355363840,21,m,False,False,48.0,Once or twice a month,0.0,Never,0.0,Never
+6513422124449792,21,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+6525287642693632,21,m,False,False,0.0,Never,73.0,Less than once or twice a year,7.0,More than once or twice a week
+4933154607464448,22,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5065252232232960,22,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5108755888865280,22,f,False,False,3.0,Once or twice a year,80.0,Once or twice a year,27.0,Once or twice a week
+5117473128972288,22,f,False,False,2.0,Less than once or twice a year,84.0,Never,0.0,Never
+5149729272889344,22,m,False,False,3.0,Once or twice a week,98.0,Once or twice a month,98.0,More than once or twice a week
+5196101900566528,22,m,False,False,84.0,Once or twice a month,16.0,Once or twice a month,0.0,Never
+5678444713082880,22,m,False,False,1.0,Less than once or twice a year,0.0,Never,0.0,Never
+5829866469457920,22,m,False,False,38.0,Once or twice a year,68.0,Once or twice a week,1.0,Once or twice a month
+5910667689197568,22,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5964341157298176,22,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6027671590928384,22,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6219186867011584,22,m,False,False,0.0,Never,11.0,Once or twice a month,0.0,Never
+6438850217902080,22,f,False,False,0.0,Never,0.0,Never,79.0,More than once or twice a week
+6512812171984896,22,f,False,False,4.0,Less than once or twice a year,4.0,Less than once or twice a year,7.0,Once or twice a month
+6568718888861696,22,m,False,False,0.0,Never,5.0,Once or twice a week,0.0,Never
+6575363605921792,22,f,False,False,16.0,Once or twice a year,44.0,Once or twice a week,75.0,Once or twice a week
+6684899767484416,22,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4652326828638208,23,m,False,False,4.0,Less than once or twice a year,0.0,Never,0.0,Never
+4657041293443072,23,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+5083706163200000,23,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5201677372096512,23,m,False,False,10.0,Once or twice a week,10.0,Once or twice a year,3.0,Once or twice a year
+5288546508210176,23,f,False,True,0.0,Never,0.0,Never,23.0,More than once or twice a week
+5371985307631616,23,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5372838999490560,23,m,False,False,5.0,Once or twice a month,4.0,Once or twice a week,4.0,Once or twice a month
+5437763067314176,23,m,False,False,69.0,Once or twice a week,10.0,Once or twice a week,5.0,Once or twice a week
+5633332859633664,23,f,False,False,72.0,Once or twice a year,0.0,Never,0.0,Never
+5777902197014528,23,f,False,False,0.0,Once or twice a year,20.0,Once or twice a month,15.0,More than once or twice a week
+5826662960726016,23,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5918379302977536,23,m,False,False,5.0,Less than once or twice a year,7.0,Once or twice a week,20.0,More than once or twice a week
+5975731679002624,23,m,False,False,30.0,Once or twice a year,34.0,More than once or twice a week,36.0,More than once or twice a week
+6200285387030528,23,m,False,False,37.0,Less than once or twice a year,49.0,Less than once or twice a year,125.0,More than once or twice a week
+6401329853366272,23,m,False,False,1.0,Once or twice a month,3.0,Once or twice a month,3.0,More than once or twice a week
+6462218530979840,23,m,False,False,87.0,More than once or twice a week,25.0,Less than once or twice a year,0.0,Never
+6485567852249088,23,m,False,True,0.0,Never,8.0,Less than once or twice a year,0.0,Never
+6739241505652736,23,m,False,False,0.0,Never,0.0,Never,6.0,Once or twice a week
+4517615582052352,24,m,False,False,0.0,Never,0.0,Never,5.0,Once or twice a week
+5070199967449088,24,m,False,True,0.0,Never,0.0,Never,0.0,Never
+5138140243165184,24,m,False,False,1.0,Once or twice a month,1.0,Once or twice a month,0.0,Never
+5144828715204608,24,m,False,False,5.0,Once or twice a year,0.0,Never,0.0,Never
+5149588075839488,24,m,False,False,0.0,Never,7.0,Once or twice a week,0.0,Never
+5168694908944384,24,m,False,False,0.0,Never,15.0,More than once or twice a week,0.0,Never
+5256232248016896,24,f,False,False,0.0,Never,3.0,Less than once or twice a year,0.0,Less than once or twice a year
+5486683550121984,24,f,False,False,12.0,Never,2.0,Never,3.0,More than once or twice a week
+5629652273987584,24,f,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+5640982397714432,24,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+5698529657880576,24,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+5716463897804800,24,f,False,False,38.0,Once or twice a month,25.0,Once or twice a month,0.0,Never
+5729201025974272,24,m,False,False,1.0,Once or twice a week,0.0,Never,0.0,Once or twice a year
+5757487680585728,24,m,False,False,5.0,Once or twice a month,104.0,Once or twice a year,0.0,Once or twice a week
+5830198792552448,24,f,False,False,0.0,Never,62.0,More than once or twice a week,20.0,More than once or twice a week
+5850057446260736,24,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5967946916560896,24,m,False,False,3.0,Once or twice a month,7.0,Once or twice a month,10.0,More than once or twice a week
+6104506341261312,24,m,False,False,43.0,More than once or twice a week,0.0,More than once or twice a week,102.0,More than once or twice a week
+6421399228907520,24,m,False,False,80.0,More than once or twice a week,4.0,Once or twice a month,2.0,Once or twice a week
+6571512630870016,24,f,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+4515045446778880,25,m,False,False,9.0,Less than once or twice a year,8.0,Once or twice a week,9.0,Once or twice a month
+4751985840488448,25,m,False,False,5.0,More than once or twice a week,15.0,More than once or twice a week,6.0,Once or twice a week
+4785227343855616,25,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+4850734990360576,25,m,False,False,10.0,Once or twice a week,2.0,Once or twice a week,0.0,Never
+5082529006616576,25,m,False,False,101.0,More than once or twice a week,75.0,Once or twice a week,10.0,More than once or twice a week
+5157903266742272,25,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5205061202345984,25,m,False,False,3.0,Once or twice a month,3.0,Once or twice a month,1.0,Once or twice a month
+5318211042017280,25,f,False,False,0.0,Never,0.0,Never,106.0,More than once or twice a week
+5500405433761792,25,f,False,False,0.0,Never,102.0,Once or twice a month,0.0,Once or twice a week
+5542844542484480,25,f,False,False,15.0,More than once or twice a week,5.0,More than once or twice a week,5.0,More than once or twice a week
+5668753656250368,25,f,False,False,12.0,Once or twice a year,5.0,Once or twice a year,1.0,Once or twice a year
+5712349319135232,25,m,False,False,0.0,Less than once or twice a year,0.0,Once or twice a year,0.0,Never
+5718080416120832,25,f,False,False,5.0,Once or twice a year,15.0,Less than once or twice a year,0.0,Never
+5741004535627776,25,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5769015641243648,25,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5943544321671168,25,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5950567532724224,25,f,False,False,1.0,Once or twice a month,4.0,Less than once or twice a year,15.0,More than once or twice a week
+5961611772690432,25,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6409279032524800,25,f,False,False,24.0,Less than once or twice a year,24.0,Less than once or twice a year,0.0,More than once or twice a week
+6433509090525184,25,f,False,False,10.0,Once or twice a month,10.0,Once or twice a month,0.0,Never
+6451474401853440,25,m,False,False,0.0,Once or twice a month,0.0,Less than once or twice a year,0.0,Never
+4692761529810944,26,f,True,False,0.0,Never,0.0,Never,0.0,Never
+4888383801262080,26,f,False,False,3.0,Once or twice a month,3.0,More than once or twice a week,3.0,Once or twice a week
+5042433205207040,26,f,False,False,1.0,Less than once or twice a year,0.0,Never,0.0,Once or twice a year
+5174714574045184,26,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5177924793663488,26,m,False,False,0.0,Never,22.0,More than once or twice a week,0.0,Less than once or twice a year
+5389827809738752,26,m,False,False,20.0,More than once or twice a week,2.0,Less than once or twice a year,20.0,More than once or twice a week
+5639253606268928,26,f,False,False,70.0,More than once or twice a week,34.0,More than once or twice a week,32.0,Once or twice a month
+5658894894366720,26,m,False,False,3.0,Once or twice a year,3.0,Once or twice a month,39.0,Once or twice a week
+5757736318926848,26,m,False,False,4.0,Once or twice a month,4.0,Once or twice a month,3.0,Once or twice a week
+5767281011326976,26,f,False,False,20.0,Once or twice a month,3.0,Less than once or twice a year,20.0,More than once or twice a week
+5853488051388416,26,m,False,False,25.0,Once or twice a week,53.0,More than once or twice a week,0.0,Never
+5937382117343232,26,m,False,False,10.0,More than once or twice a week,0.0,Never,20.0,More than once or twice a week
+6277092689838080,26,m,False,False,38.0,Once or twice a week,38.0,Once or twice a week,10.0,More than once or twice a week
+6289260265078784,26,m,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Never
+6295860488962048,26,m,False,False,5.0,Once or twice a month,10.0,Once or twice a year,10.0,Once or twice a week
+6380671731761152,26,m,False,False,25.0,Once or twice a year,73.0,Less than once or twice a year,74.0,Less than once or twice a year
+6463185167056896,26,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+6587998258855936,26,m,False,False,72.0,Once or twice a year,6.0,Once or twice a year,0.0,Never
+4843499111317504,27,m,False,False,2.0,Less than once or twice a year,1.0,Less than once or twice a year,1.0,Less than once or twice a year
+4919319511171072,27,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5083289484263424,27,m,False,False,10.0,Once or twice a week,0.0,Never,25.0,Once or twice a week
+5283819359830016,27,f,False,False,25.0,Once or twice a year,2.0,Never,0.0,Never
+5659793079402496,27,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5667113112961024,27,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5670568615477248,27,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5702479685615616,27,f,False,False,5.0,Once or twice a year,0.0,Less than once or twice a year,7.0,Once or twice a week
+5820900993662976,27,m,False,False,0.0,Never,72.0,Once or twice a week,72.0,Once or twice a week
+5830738146492416,27,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a year
+5833329823711232,27,m,False,False,74.0,More than once or twice a week,68.0,More than once or twice a week,68.0,More than once or twice a week
+5970888767832064,27,f,False,False,40.0,Once or twice a week,27.0,More than once or twice a week,40.0,More than once or twice a week
+6009057135558656,27,m,False,False,74.0,Less than once or twice a year,74.0,Less than once or twice a year,65.0,More than once or twice a week
+6428089445777408,27,f,False,False,3.0,Once or twice a year,0.0,Never,38.0,More than once or twice a week
+6477244339847168,27,f,False,True,0.0,Never,0.0,Never,0.0,Never
+4574580672823296,28,f,False,False,73.0,Once or twice a month,18.0,Once or twice a week,24.0,More than once or twice a week
+4660930252111872,28,m,False,False,0.0,Never,18.0,Once or twice a week,5.0,Once or twice a month
+4789354807427072,28,m,False,False,1.0,Once or twice a month,2.0,Less than once or twice a year,5.0,Once or twice a month
+4888143618637824,28,f,False,False,84.0,Once or twice a year,2.0,Less than once or twice a year,9.0,More than once or twice a week
+4918822905577472,28,m,False,False,0.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Never
+4920323661103104,28,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5136269650690048,28,m,False,False,72.0,Less than once or twice a year,3.0,Once or twice a month,3.0,Less than once or twice a year
+5407938814410752,28,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5430754821537792,28,m,False,False,75.0,Once or twice a month,74.0,Once or twice a month,76.0,More than once or twice a week
+5487725079691264,28,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5634985281191936,28,m,False,False,9.0,Once or twice a year,13.0,Once or twice a week,13.0,More than once or twice a week
+5659118702428160,28,m,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+5731015045677056,28,m,False,False,4.0,Less than once or twice a year,70.0,Once or twice a week,75.0,More than once or twice a week
+5873736272052224,28,m,False,False,0.0,Once or twice a week,0.0,Once or twice a week,0.0,More than once or twice a week
+6008864868663296,28,f,False,False,0.0,Never,10.0,Less than once or twice a year,0.0,Never
+6325180418752512,28,m,False,False,1.0,Once or twice a year,3.0,Less than once or twice a year,7.0,Once or twice a week
+6476784979673088,28,m,False,False,48.0,Less than once or twice a year,75.0,Once or twice a year,17.0,Once or twice a month
+6483678536400896,28,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6603066816069632,28,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+6724740890755072,28,m,False,False,1.0,Less than once or twice a year,132.0,Never,10.0,Less than once or twice a year
+4622392785633280,29,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4784767782354944,29,f,False,False,30.0,Once or twice a month,48.0,Once or twice a month,72.0,More than once or twice a week
+4878923666030592,29,m,False,False,5.0,More than once or twice a week,15.0,Once or twice a week,25.0,Once or twice a week
+4881426558222336,29,m,True,True,2.0,Once or twice a year,0.0,Once or twice a year,3.0,Once or twice a month
+4907275282022400,29,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a year
+5122011567226880,29,m,False,False,15.0,Once or twice a month,77.0,Once or twice a month,75.0,Once or twice a week
+5149218708652032,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5162772954349568,29,f,False,False,12.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Once or twice a month
+5215103574081536,29,m,False,False,5.0,Once or twice a month,22.0,Once or twice a week,2.0,Once or twice a year
+5367727988408320,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5670405876482048,29,m,False,False,15.0,Once or twice a month,0.0,Never,0.0,Never
+5683406138507264,29,f,False,False,24.0,Less than once or twice a year,0.0,Never,15.0,Once or twice a week
+5688716597133312,29,m,False,False,10.0,More than once or twice a week,10.0,More than once or twice a week,10.0,More than once or twice a week
+5707532110659584,29,m,False,False,0.0,Never,0.0,Never,15.0,Once or twice a week
+5730634941071360,29,m,False,False,12.0,Once or twice a week,4.0,Never,2.0,Never
+5745111329669120,29,m,False,False,80.0,More than once or twice a week,43.0,More than once or twice a week,27.0,More than once or twice a week
+5745865499082752,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5937113413451776,29,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6088856755503104,29,f,False,False,14.0,Less than once or twice a year,10.0,Less than once or twice a year,4.0,Less than once or twice a year
+6226078947344384,29,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+6291707255586816,29,f,False,False,17.0,Once or twice a week,20.0,Once or twice a week,25.0,More than once or twice a week
+6297742624161792,29,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+6302528425689088,29,m,False,False,1.0,Once or twice a year,0.0,Less than once or twice a year,1.0,Once or twice a year
+6593752978161664,29,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4589928805564416,30,m,False,False,15.0,More than once or twice a week,0.0,Never,14.0,More than once or twice a week
+4902656044695552,30,f,False,False,3.0,Once or twice a month,3.0,Once or twice a year,15.0,More than once or twice a week
+4924368513662976,30,m,False,False,15.0,Once or twice a month,12.0,More than once or twice a week,0.0,Less than once or twice a year
+4982315608440832,30,m,False,False,36.0,Once or twice a year,3.0,Once or twice a month,0.0,Never
+5148362265329664,30,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5152971570544640,30,m,False,False,2.0,Less than once or twice a year,22.0,Once or twice a year,0.0,Less than once or twice a year
+5223247503163392,30,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5247508095696896,30,f,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+5461871725379584,30,f,True,False,0.0,Never,0.0,Never,20.0,Once or twice a week
+5513208597053440,30,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+5684961520648192,30,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5699349795307520,30,m,False,True,0.0,Never,0.0,Never,0.0,Never
+5731253819015168,30,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5846556511043584,30,f,False,False,88.0,Once or twice a month,28.0,Once or twice a month,0.0,Never
+5958778637778944,30,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6109253152538624,30,f,False,False,0.0,Never,0.0,Never,30.0,More than once or twice a week
+6216280315002880,30,m,False,False,15.0,More than once or twice a week,0.0,Never,0.0,Never
+6222772225179648,30,f,False,False,44.0,Once or twice a week,84.0,Once or twice a week,92.0,More than once or twice a week
+6373408002539520,30,f,False,False,3.0,Once or twice a year,1.0,Less than once or twice a year,1.0,More than once or twice a week
+6522630601441280,30,m,False,False,2.0,Once or twice a year,0.0,Never,0.0,Never
+4665962007625728,31,m,False,False,103.0,Never,0.0,Never,0.0,Once or twice a month
+4666692756045824,31,f,False,False,0.0,Never,0.0,Never,0.0,Never
+4794042361577472,31,m,False,False,5.0,Once or twice a month,5.0,Once or twice a month,5.0,Once or twice a month
+4818118203408384,31,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4820957512335360,31,f,False,False,0.0,Never,0.0,Never,132.0,More than once or twice a week
+4896775294943232,31,m,False,False,109.0,More than once or twice a week,21.0,More than once or twice a week,68.0,Once or twice a week
+4914660411179008,31,f,False,False,0.0,Never,72.0,Never,25.0,More than once or twice a week
+5096377122029568,31,m,False,False,0.0,Never,2.0,Once or twice a month,24.0,More than once or twice a week
+5255353725878272,31,m,False,False,3.0,Once or twice a month,5.0,More than once or twice a week,0.0,Less than once or twice a year
+5383821230866432,31,f,False,False,0.0,Never,20.0,More than once or twice a week,30.0,More than once or twice a week
+5407080089387008,31,m,False,False,74.0,Once or twice a year,3.0,Once or twice a year,0.0,Never
+5445914915241984,31,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5450837216198656,31,m,False,False,78.0,Once or twice a month,15.0,Once or twice a week,15.0,Once or twice a week
+5572119911989248,31,m,False,False,1.0,Less than once or twice a year,0.0,Never,72.0,Once or twice a year
+5603345196646400,31,m,False,False,2.0,Once or twice a month,4.0,Once or twice a month,0.0,Never
+5642906408845312,31,m,False,False,1.0,Once or twice a year,0.0,Less than once or twice a year,0.0,Never
+5713106038685696,31,m,False,False,73.0,Once or twice a month,4.0,Once or twice a year,0.0,Never
+5761569644347392,31,f,False,False,0.0,Never,0.0,Never,30.0,Once or twice a week
+5769978921877504,31,m,False,False,46.0,Never,20.0,Less than once or twice a year,33.0,Less than once or twice a year
+5793651305218048,31,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5795051464556544,31,m,False,False,5.0,Less than once or twice a year,5.0,Less than once or twice a year,0.0,Never
+6063355387183104,31,m,False,False,0.0,Never,17.0,Once or twice a week,0.0,Never
+6208428913459200,31,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6282355568279552,31,m,False,False,0.0,Never,0.0,Less than once or twice a year,25.0,Never
+6661235504316416,31,m,False,False,1.0,More than once or twice a week,0.0,Never,3.0,More than once or twice a week
+4610855966605312,32,m,False,False,20.0,Once or twice a year,10.0,Once or twice a year,0.0,Never
+4762624541589504,32,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4773479467450368,32,f,False,False,25.0,Less than once or twice a year,0.0,Never,0.0,Once or twice a week
+4820509896212480,32,m,False,False,121.0,Once or twice a month,20.0,Once or twice a week,0.0,Never
+4851771755200512,32,f,False,False,0.0,Never,75.0,Less than once or twice a year,0.0,Once or twice a year
+4879869028597760,32,f,False,False,0.0,Less than once or twice a year,25.0,More than once or twice a week,25.0,More than once or twice a week
+4947930100269056,32,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5424929906360320,32,m,False,False,12.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,More than once or twice a week
+5542668650151936,32,m,False,False,10.0,Less than once or twice a year,0.0,Never,0.0,Never
+5634612826996736,32,m,False,False,27.0,Once or twice a week,27.0,Once or twice a week,0.0,More than once or twice a week
+5654313976201216,32,m,False,False,20.0,More than once or twice a week,25.0,Once or twice a month,0.0,Never
+5655670581886976,32,m,False,True,0.0,Never,0.0,Once or twice a year,0.0,Once or twice a month
+5669092556013568,32,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5677090456207360,32,m,False,False,10.0,Once or twice a week,0.0,Never,30.0,More than once or twice a week
+5689413791121408,32,m,False,False,20.0,Once or twice a month,20.0,Once or twice a month,0.0,Never
+6254227290587136,32,m,False,False,0.0,More than once or twice a week,0.0,More than once or twice a week,0.0,More than once or twice a week
+6551699879624704,32,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6603531544952832,32,m,False,False,73.0,Less than once or twice a year,5.0,Once or twice a week,20.0,More than once or twice a week
+6617218599092224,32,m,False,False,86.0,Once or twice a month,25.0,Once or twice a month,0.0,Never
+4663874452193280,33,f,False,False,0.0,Never,0.0,Never,30.0,More than once or twice a week
+4870606998732800,33,f,False,False,31.0,Less than once or twice a year,38.0,Less than once or twice a year,80.0,Once or twice a week
+5072209273946112,33,m,False,False,0.0,Never,0.0,Less than once or twice a year,0.0,Once or twice a month
+5092380923396096,33,f,False,False,20.0,Less than once or twice a year,19.0,Once or twice a week,30.0,More than once or twice a week
+5190287454371840,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5197028673978368,33,f,False,False,3.0,Once or twice a month,1.0,Less than once or twice a year,22.0,More than once or twice a week
+5422996969750528,33,m,False,False,12.0,More than once or twice a week,16.0,Once or twice a week,0.0,Never
+5452421857804288,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5555089427136512,33,m,False,False,18.0,Once or twice a week,5.0,Once or twice a month,3.0,Once or twice a year
+5609460357660672,33,f,False,False,26.0,Once or twice a month,7.0,Once or twice a year,5.0,Once or twice a month
+5651351119855616,33,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5684997289672704,33,f,False,False,0.0,Never,0.0,Never,26.0,Once or twice a month
+5722960035840000,33,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5752337612144640,33,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5831122680283136,33,f,False,False,72.0,Once or twice a year,20.0,Once or twice a month,0.0,Never
+5884820173357056,33,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5915606901587968,33,m,False,False,72.0,Once or twice a year,0.0,Less than once or twice a year,0.0,Never
+5965785272942592,33,f,False,False,0.0,Never,20.0,Once or twice a year,32.0,More than once or twice a week
+6501768267563008,33,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5078126933573632,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5081841140760576,34,m,False,False,0.0,Less than once or twice a year,0.0,Never,32.0,More than once or twice a week
+5104218591461376,34,f,False,False,15.0,Once or twice a month,15.0,Once or twice a week,27.0,Once or twice a month
+5130871078125568,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5164320753188864,34,f,False,False,78.0,Once or twice a week,29.0,Once or twice a week,14.0,Once or twice a month
+5383895587487744,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5645175091101696,34,m,False,False,70.0,Once or twice a week,2.0,Once or twice a month,62.0,More than once or twice a week
+5650387168133120,34,m,False,False,80.0,More than once or twice a week,12.0,Once or twice a week,13.0,Once or twice a week
+5668574207148032,34,f,False,False,1.0,Once or twice a year,30.0,Once or twice a week,10.0,More than once or twice a week
+5677415934197760,34,m,True,False,0.0,Never,0.0,Never,0.0,Never
+5679413765079040,34,m,False,False,16.0,Once or twice a month,0.0,Never,0.0,Never
+5687181548978176,34,f,False,False,0.0,Never,0.0,Never,32.0,More than once or twice a week
+5782941200285696,34,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5808346535821312,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5974441309765632,34,m,False,False,25.0,More than once or twice a week,92.0,More than once or twice a week,92.0,More than once or twice a week
+6019086085521408,34,f,False,False,2.0,Less than once or twice a year,0.0,Never,0.0,Never
+6027341952188416,34,m,False,False,50.0,Once or twice a month,50.0,Once or twice a month,20.0,Less than once or twice a year
+6196282813054976,34,f,False,False,48.0,Less than once or twice a year,0.0,Never,20.0,Once or twice a week
+6212152918540288,34,f,False,False,2.0,Once or twice a year,2.0,Once or twice a year,15.0,Once or twice a week
+6290297029918720,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6393218874736640,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4774425098452992,35,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+4906822162972672,35,f,False,False,1.0,Less than once or twice a year,10.0,Once or twice a year,20.0,More than once or twice a week
+5067365490360320,35,m,False,False,1.0,Once or twice a year,0.0,Never,0.0,Never
+5068162005467136,35,m,False,False,0.0,Never,0.0,Never,1.0,Once or twice a week
+5109097741418496,35,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5126658050752512,35,m,False,False,5.0,Once or twice a year,4.0,Once or twice a week,0.0,Never
+5157863873839104,35,m,False,False,39.0,Once or twice a month,53.0,Less than once or twice a year,2.0,Once or twice a year
+5173176170446848,35,m,False,False,3.0,Once or twice a week,8.0,More than once or twice a week,96.0,Once or twice a month
+5416494456373248,35,m,False,False,20.0,Once or twice a year,0.0,Less than once or twice a year,0.0,Never
+5479154069798912,35,m,False,False,28.0,Once or twice a month,16.0,Once or twice a year,25.0,Less than once or twice a year
+5682526676844544,35,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5820401837932544,35,f,False,False,0.0,Never,0.0,Never,20.0,Once or twice a week
+5883048298020864,35,m,False,False,75.0,Once or twice a week,81.0,More than once or twice a week,75.0,More than once or twice a week
+5970629593399296,35,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6050116284710912,35,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6223562767597568,35,f,False,False,0.0,Never,32.0,Less than once or twice a year,33.0,More than once or twice a week
+6328361647341568,35,f,False,False,46.0,More than once or twice a week,38.0,Once or twice a week,61.0,Once or twice a week
+6343133046505472,35,f,False,False,26.0,Never,13.0,Once or twice a year,13.0,Once or twice a month
+4759489551007744,36,f,False,False,0.0,Never,0.0,Never,0.0,Never
+4851929930792960,36,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4881885381525504,36,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+5055364412211200,36,m,False,False,74.0,Once or twice a year,0.0,Once or twice a year,0.0,Never
+5640029049192448,36,m,False,False,87.0,Once or twice a year,5.0,Once or twice a month,98.0,Once or twice a year
+5702427407810560,36,f,False,False,10.0,Once or twice a month,1.0,Less than once or twice a year,30.0,More than once or twice a week
+5743573328723968,36,f,False,False,0.0,Never,0.0,More than once or twice a week,20.0,More than once or twice a week
+5754661927649280,36,m,False,False,38.0,Once or twice a month,1.0,Once or twice a month,1.0,Once or twice a week
+5849381861326848,36,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+6303826176901120,36,m,False,False,75.0,Less than once or twice a year,6.0,Once or twice a month,30.0,More than once or twice a week
+6516211638599680,36,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6727958626566144,36,m,False,False,24.0,Less than once or twice a year,8.0,Once or twice a week,3.0,Once or twice a month
+4682604200591360,37,f,False,False,0.0,Never,0.0,Never,35.0,Once or twice a week
+4840445188243456,37,f,False,False,0.0,Never,0.0,Never,0.0,Never
+4880434890539008,37,f,False,False,0.0,Never,0.0,Never,35.0,More than once or twice a week
+5105956442603520,37,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+5418262372286464,37,f,False,False,32.0,More than once or twice a week,32.0,More than once or twice a week,33.0,More than once or twice a week
+5524288807370752,37,f,False,False,2.0,Once or twice a month,34.0,Once or twice a year,0.0,Never
+6240854507257856,37,m,False,False,72.0,Once or twice a year,8.0,Less than once or twice a year,0.0,Never
+6265206971826176,37,m,False,False,77.0,Once or twice a month,10.0,Once or twice a month,10.0,Once or twice a week
+6286298549583872,37,m,False,False,30.0,Once or twice a week,21.0,More than once or twice a week,30.0,More than once or twice a week
+4599048900182016,38,m,False,False,28.0,Once or twice a month,12.0,Less than once or twice a year,0.0,Never
+5079475955957760,38,f,False,False,4.0,Once or twice a year,10.0,Once or twice a year,30.0,Once or twice a week
+5100433181769728,38,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+5368304990420992,38,f,False,False,16.0,Less than once or twice a year,88.0,Once or twice a year,0.0,Never
+5421861554880512,38,f,False,False,15.0,Once or twice a year,3.0,Less than once or twice a year,0.0,Never
+5644309118320640,38,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5692239946711040,38,f,False,False,0.0,Never,26.0,Once or twice a week,0.0,More than once or twice a week
+5767364427644928,38,f,False,False,25.0,More than once or twice a week,33.0,Once or twice a week,35.0,Once or twice a week
+5919420832546816,38,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6200624085467136,38,f,False,False,57.0,Once or twice a year,57.0,Once or twice a year,30.0,Once or twice a week
+6443127200022528,38,m,False,False,5.0,Once or twice a month,0.0,Never,0.0,Never
+6729245103489024,38,m,False,False,75.0,Once or twice a year,0.0,Never,0.0,Never
+4925996977356800,39,m,False,False,15.0,Once or twice a year,20.0,Once or twice a month,36.0,Once or twice a week
+5073141952937984,39,m,False,False,0.0,Less than once or twice a year,0.0,Never,34.0,More than once or twice a week
+5201391219900416,39,m,False,False,2.0,Less than once or twice a year,10.0,Less than once or twice a year,0.0,Never
+5654872321949696,39,m,False,False,2.0,Once or twice a year,5.0,Once or twice a month,25.0,Once or twice a week
+5655941567479808,39,m,True,False,25.0,More than once or twice a week,0.0,Never,0.0,Never
+5743939608903680,39,f,False,False,0.0,Never,0.0,Never,0.0,Never
+6140982626091008,39,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+6274587650162688,39,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6315847253491712,39,f,False,False,0.0,Never,10.0,Once or twice a month,0.0,Never
+6506792305557504,39,f,False,False,36.0,Once or twice a year,0.0,Less than once or twice a year,102.0,More than once or twice a week
+4600375977967616,40,f,False,False,2.0,Once or twice a year,0.0,Never,20.0,Less than once or twice a year
+4681481871949824,40,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+4798129157177344,40,f,False,False,0.0,Never,0.0,Never,2.0,Less than once or twice a year
+5262750397759488,40,m,False,False,0.0,Never,106.0,Less than once or twice a year,0.0,Never
+5372497146937344,40,f,False,False,25.0,Never,0.0,Never,0.0,Once or twice a month
+5402373140774912,40,m,False,False,0.0,Never,1.0,Less than once or twice a year,0.0,Never
+5506974921785344,40,m,False,False,10.0,Once or twice a year,15.0,Once or twice a year,0.0,Never
+5650741771370496,40,f,False,False,2.0,Once or twice a year,37.0,More than once or twice a week,98.0,More than once or twice a week
+5908899773284352,40,f,False,False,0.0,Never,100.0,More than once or twice a week,0.0,Never
+6010677479079936,40,f,False,False,0.0,Never,0.0,Never,136.0,Once or twice a week
+5009322698342400,41,m,False,False,0.0,Less than once or twice a year,2.0,Less than once or twice a year,0.0,Less than once or twice a year
+5338377658302464,41,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+5439775662145536,41,m,False,False,20.0,Once or twice a month,0.0,Never,0.0,Never
+6754362474889216,41,f,False,False,73.0,Once or twice a week,82.0,Once or twice a month,0.0,Never
+4773889435500544,42,m,False,False,6.0,Once or twice a month,6.0,More than once or twice a week,0.0,Less than once or twice a year
+5671018043539456,42,m,False,False,10.0,Once or twice a month,140.0,Once or twice a year,140.0,Once or twice a week
+5696165211275264,42,f,False,False,0.0,Never,0.0,Never,38.0,More than once or twice a week
+5714848721666048,42,f,False,False,55.0,Once or twice a month,30.0,Once or twice a week,30.0,Once or twice a week
+5727087700738048,42,f,False,False,37.0,Once or twice a year,37.0,Once or twice a year,37.0,Once or twice a year
+6246722103672832,42,m,False,False,74.0,More than once or twice a week,87.0,More than once or twice a week,75.0,More than once or twice a week
+6433628007432192,42,m,False,False,1.0,Less than once or twice a year,1.0,Once or twice a month,78.0,More than once or twice a week
+4865253120671744,43,m,False,False,3.0,Once or twice a year,2.0,Less than once or twice a year,2.0,Once or twice a month
+4961215239421952,43,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5173346358525952,43,m,False,False,44.0,Once or twice a week,86.0,Once or twice a month,14.0,Once or twice a week
+5436236810420224,43,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+6530572801277952,43,f,False,False,57.0,Once or twice a month,0.0,Less than once or twice a year,20.0,Once or twice a week
+4884712610856960,44,m,False,False,72.0,Once or twice a month,0.0,Never,0.0,Never
+4972440404885504,44,f,False,False,25.0,Once or twice a month,30.0,Once or twice a month,34.0,More than once or twice a week
+5257838700003328,44,m,False,False,25.0,Once or twice a month,35.0,Once or twice a week,5.0,Once or twice a year
+5351288195776512,44,m,False,False,99.0,Once or twice a week,165.0,Once or twice a year,40.0,More than once or twice a week
+5478351313567744,44,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5671868648390656,44,m,False,False,12.0,Once or twice a week,15.0,Once or twice a week,10.0,More than once or twice a week
+5759013870370816,44,m,False,False,73.0,Once or twice a month,27.0,More than once or twice a week,27.0,Once or twice a year
+5964965001297920,44,f,False,False,142.0,Once or twice a year,142.0,Once or twice a month,115.0,More than once or twice a week
+6574586283950080,44,m,False,False,3.0,Once or twice a year,6.0,Once or twice a year,0.0,Less than once or twice a year
+4838387898908672,45,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5093108584808448,45,m,False,False,130.0,More than once or twice a week,140.0,Once or twice a week,13.0,Less than once or twice a year
+5263713007304704,45,m,False,False,25.0,Once or twice a year,99.0,Once or twice a year,0.0,Never
+5639941472124928,45,f,False,False,65.0,Once or twice a year,64.0,Once or twice a week,40.0,More than once or twice a week
+5957377136263168,45,m,False,False,102.0,More than once or twice a week,0.0,Never,0.0,Never
+4646079798706176,46,m,False,False,15.0,Once or twice a month,30.0,Once or twice a year,30.0,Once or twice a week
+4864491233738752,46,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5100791207559168,46,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5927880643051520,46,m,False,False,110.0,More than once or twice a week,0.0,Never,0.0,Less than once or twice a year
+6493461800812544,46,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5285679953084416,47,m,False,False,0.0,Never,4.0,Never,0.0,Never
+5901806433468416,47,m,False,False,0.0,Once or twice a year,0.0,Never,0.0,Less than once or twice a year
+6384110524170240,47,f,False,False,0.0,Never,0.0,Never,40.0,More than once or twice a week
+6103547691139072,48,f,False,False,20.0,Once or twice a year,0.0,Never,0.0,Once or twice a month
+6329581552271360,48,f,False,False,0.0,Never,0.0,Never,0.0,Never
+4841578120085504,49,m,False,False,30.0,Once or twice a month,15.0,Once or twice a week,0.0,Never
+4855594745856000,49,f,False,False,10.0,More than once or twice a week,10.0,Once or twice a year,10.0,Once or twice a month
+5740939842682880,49,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5793234492063744,49,f,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Never
+6004886655205376,49,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+5917307507310592,50,f,False,False,0.0,Never,45.0,Once or twice a week,45.0,More than once or twice a week
+6322035294732288,50,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6403666516901888,50,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4925850277380096,52,f,False,False,0.0,Never,0.0,Never,52.0,Once or twice a month
+5080222944722944,52,f,False,False,0.0,Never,1.0,Once or twice a month,0.0,Never
+5371311333310464,52,f,False,False,0.0,Never,0.0,Never,122.0,Once or twice a week
+5440829808181248,52,f,False,False,0.0,Never,0.0,Never,0.0,Never
+4806851430449152,53,f,False,False,0.0,Less than once or twice a year,4.0,Once or twice a year,50.0,More than once or twice a week
+4919395478405120,53,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5143558075973632,53,m,False,False,0.0,Never,43.0,Once or twice a year,50.0,More than once or twice a week
+5484776383315968,53,m,False,False,0.0,Once or twice a year,0.0,Once or twice a year,0.0,Once or twice a month
+5585724220899328,53,f,False,False,40.0,Once or twice a year,20.0,Less than once or twice a year,50.0,Once or twice a week
+6220420663476224,53,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+6233487094841344,53,m,False,False,0.0,Never,0.0,Never,0.0,Never
+4903589461884928,54,f,False,False,0.0,Never,3.0,Never,0.0,Never
+4702761622962176,55,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+4782793640902656,55,f,False,False,0.0,Never,0.0,Never,54.0,More than once or twice a week
+4903185667850240,55,f,False,False,0.0,Never,0.0,Never,40.0,More than once or twice a week
+5682293876195328,55,m,False,False,2.0,Less than once or twice a year,20.0,Once or twice a year,30.0,Once or twice a month
+5461904071852032,56,f,False,False,0.0,Never,26.0,More than once or twice a week,0.0,Never
+5765410955722752,56,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5825826985607168,56,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+6263672460541952,56,m,False,False,0.0,Never,0.0,Never,0.0,Never
+6528006960971776,56,m,False,False,72.0,Once or twice a month,73.0,Once or twice a week,10.0,More than once or twice a week
+6230928166748160,57,f,False,False,0.0,Never,0.0,Never,44.0,Once or twice a week
+5228911961047040,58,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+5587938612084736,58,m,False,False,0.0,Never,0.0,Never,53.0,Once or twice a month
+5128014052458496,59,m,False,False,15.0,Once or twice a month,49.0,Once or twice a year,30.0,Once or twice a month
+5183026476613632,59,m,False,False,0.0,Never,0.0,Never,0.0,Never
+5465253609472000,59,m,False,False,50.0,Once or twice a week,0.0,Never,0.0,Never
+5666536245166080,59,f,False,False,0.0,Never,0.0,Never,50.0,More than once or twice a week
+6239568298770432,59,f,False,False,5.0,Less than once or twice a year,5.0,Once or twice a year,50.0,More than once or twice a week
+5941297248468992,60,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5979748278730752,62,f,False,False,26.0,Once or twice a year,0.0,Less than once or twice a year,114.0,Once or twice a year
+5255091196002304,63,f,False,False,0.0,Never,0.0,Never,10.0,Less than once or twice a year
+5394274443067392,65,m,False,False,84.0,Once or twice a month,56.0,Once or twice a year,0.0,Never
+5114140502786048,66,m,False,False,0.0,Never,0.0,Less than once or twice a year,144.0,Once or twice a week
+5384280121278464,68,f,False,False,0.0,Never,0.0,Never,0.0,Never
+5956527470936064,286,m,False,False,51.0,Once or twice a week,98.0,More than once or twice a week,27.0,More than once or twice a week
+4871574171680768,1984,m,False,False,13.0,Once or twice a month,13.0,Once or twice a month,13.0,More than once or twice a week
+4885515635523584,1984,m,False,False,26.0,Once or twice a month,26.0,Once or twice a month,26.0,Once or twice a month
