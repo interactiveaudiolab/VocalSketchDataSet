@@ -57,8 +57,8 @@ Bryan Pardo
 * sound_recording_id - The id of the sound recording
 * audio_concept_subset - The subset from which the stimulus comes from
 * participants_sound_recording_description - The participant's description of the stimulus sound recording (if a stimulus_type='sound recording')
-* participants_sound_recording_description_confidence - The participant's confidence in their sound recording description on 5-level Likert scale (*Not at
-all confident, Not so confident, Neutral, Confident, Very confident*)
+* participants_sound_recording_description_confidence - The participant's confidence in their sound recording description on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confident, Very confident*)
+* description_match - Boolean of whether participants_sound_recording_description was scored as correct according to the Marcel scoring guidelines (therefore only relevant when audio_concept_subset is 'everyday' and 'included' is True and 'stimulus_type' is 'sound recording'). See paper for more details.
 
 
 ### Column descriptions for identifications.csv
@@ -79,7 +79,7 @@ all confident, Not so confident, Neutral, Confident, Very confident*)
 * selection_sound_label_id - The id of the sound label of the participant's choice in forced-choice identification task
 * selection_sound_recording - The filename of the sound recording of the participant's choice in forced-choice identification task
 * selection_sound_recording_id - The id of sound recording of the participant's choice in forced-choice identification task
-* selection_confidence - The confidence the participant reported having in their foreced-choice selection on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confident, Very confident*)
+* selection_confidence - The confidence the participant reported having in their forced-choice selection on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confident, Very confident*)
 * selection_match - Boolean of whether the forced-choice selection was correct
 * distractor0_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
 * distractor1_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
@@ -90,6 +90,7 @@ all confident, Not so confident, Neutral, Confident, Very confident*)
 * distractor6_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
 * distractor7_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
 * distractor8_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
+* description_match - Boolean of whether participants_vocal_imitation_description was scored as correct according to the Marcel scoring guidelines (therefore only relevant when audio_concept_subset is 'everyday'). See paper for more details.
 
 
 ### Column descriptions for participant_survey.csv
