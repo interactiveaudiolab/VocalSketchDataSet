@@ -1,5 +1,6 @@
 ## Overview
 This document describes the dataset for the paper:
+
 Cartwright, M., Pardo, B. VocalSketch: Vocally Imitating Audio Concepts. In *Proceedings of ACM Conference on Human Factors in Computing Systems* (2015). http://dx.doi.org/10.1145/2702123.2702387
 
 ## Abstract
