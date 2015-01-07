@@ -1,9 +1,31 @@
 ## Overview
-This document describes the dataset for the paper "VocalSketch: Vocally Imitating Audio Concepts"
+This document describes the dataset for the paper:
+Cartwright, M., Pardo, B. VocalSketch: Vocally Imitating Audio Concepts. In *Proceedings of ACM Conference on Human Factors in Computing Systems* (2015). http://dx.doi.org/10.1145/2702123.2702387
+
+## Abstract
+A natural way of communicating an audio concept is to imitate it with one's voice. This creates an approximation of the imagined sound (e.g. a particular owl's hoot), much like how a visual sketch approximates a visual concept (e.g a drawing of the owl). If a machine could understand vocal imitations, users could communicate with software in this natural way, enabling new interactions (e.g. programming a music synthesizer by imitating the desired sound with one's voice). This data set contains thousands of crowd-sourced vocal imitations of a large set of diverse sounds, along with data on the crowd's ability to correctly label these vocal imitations. The resulting data set will help the research community understand which audio concepts can be effectively communicated with this approach. We have released the data set so the community can study the related issues and build systems that leverage vocal imitation as an interaction modality.
+
+## Usage
+For citations, please use this reference:
+
+Cartwright, M., Pardo, B. VocalSketch: Vocally Imitating Audio Concepts. In *Proceedings of ACM Conference on Human Factors in Computing Systems* (2015). http://dx.doi.org/10.1145/2702123.2702387
+
+
+## Contact info
+Interactive Audio Lab
+* http://music.eecs.northwestern.edu
+
+Mark Cartwright
+* mcartwright@gmail.com
+* http://www.markcartwright.com
+
+Bryan Pardo
+* pardo@northwestern.edu
+* http://www.bryanpardo.com
 
 ## Description of directories
-* included_vocal_imitations - This directory contains all of the vocal imitation recordings that met our inclusion criteria and were included in our analysis
-* excluded_vocal_imitations - This directory contains all of the vocal imitation recordings that did not meet our inclusion criteria and were not included in our analysis
+* vocal_imitations/included - This directory contains all of the vocal imitation recordings that met our inclusion criteria and were included in our analysis
+* vocal_imitations/excluded - This directory contains all of the vocal imitation recordings that did not meet our inclusion criteria and were not included in our analysis
 * sound_recordings - This directory contains the audio files for the referent 'sound recording' audio concepts. NOTE: If you want to obtain the 'everyday' sounds you must obtain them from http://marcellm.people.cofc.edu/confrontation%20sound%20naming/confront.htm since we cannot redistribute them.
 
 ## Description of the columns of the CSV files
@@ -27,14 +49,16 @@ This document describes the dataset for the paper "VocalSketch: Vocally Imitatin
 * draft - Boolean of whether this vocal imitaiton was a 'draft' vocal imitation
 * training - Boolean of whether this vocal imitation was for practice and discarded in analysis
 * participant_id - The id of the participant who performed the vocal imitation
-* satisfaction - The participant's satisfaction with their vocal imitation
+* satisfaction - The participant's satisfaction with their vocal imitation on a 7- level likert scale (*Completely dissatisfied, Mostly dissatisfied, Somewhat dissatisfied, Neither satisfied or dissatisfied, Somewhat satisfied, Mostly satisfied, Completely satisfied*)
 * sound_label - The sound label of the audio concept of this vocal imitation (i.e. the stimulus when a stimulus_type='sound label')
 * sound_label_id - The id of the sound label
 * sound_recording - The sound recording of the audio concept of this vocal imitation (i.e. the stimulus when a stimulus_type='sound recording')
 * sound_recording_id - The id of the sound recording
 * audio_concept_subset - The subset from which the stimulus comes from
 * participants_sound_recording_description - The participant's description of the stimulus sound recording (if a stimulus_type='sound recording')
-* participants_sound_recording_description_confidence - The participant's confidence in their sound recording description
+* participants_sound_recording_description_confidence - The participant's confidence in their sound recording description on 5-level Likert scale (*Not at
+all confident, Not so confident, Neutral, Confident, Very confident*)
+
 
 ### Column descriptions for identifications.csv
 * id - Id of the identification
@@ -49,12 +73,12 @@ This document describes the dataset for the paper "VocalSketch: Vocally Imitatin
 * audio_concept_subset - The subset from which the stimulus concept comes from
 * vocal_imitation_filename - The audio filename of the vocal imitation
 * participants_vocal_imitation_description - The description the participant (in the identification task) gave for the vocal imitation
-* participants_vocal_imitation_description_confidence - The confidence the participant reported having in the description for the vocal imitation
+* participants_vocal_imitation_description_confidence - The confidence the participant reported having in the description for the vocal imitation on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confi- dent, Very confident*)
 * selection_sound_label - The sound label of the participant's choice in forced-choice identification task
 * selection_sound_label_id - The id of the sound label of the participant's choice in forced-choice identification task
 * selection_sound_recording - The filename of the sound recording of the participant's choice in forced-choice identification task
 * selection_sound_recording_id - The id of sound recording of the participant's choice in forced-choice identification task
-* selection_confidence - The confidence the participant reported having in their foreced-choice selection
+* selection_confidence - The confidence the participant reported having in their foreced-choice selection on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confident, Very confident*)
 * selection_match - Boolean of whether the forced-choice selection was correct
 * distractor0_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
 * distractor1_id - The id of one of the distractor sound recording or sound label (depending on the identification_type)
@@ -74,8 +98,8 @@ This document describes the dataset for the paper "VocalSketch: Vocally Imitatin
 * hearing_problems - The participant's response to the question: "Have you ever been diagnosed with a hearing problem?"
 * speech_problems - The participant's response to the question: "Have you ever been diagnosed with a speech problem?""
 * years_actively_using_music_tech - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively using ﻿audio/music production technology (e.g. recording, mixing, synthesis technology)."
-* frequency_using_music_tech - The participant's response to the question: "How frequently do you use audio/music production technology (e.g. recording, mixing, synthesis technology)?"
+* frequency_using_music_tech - The participant's response to the question: "How frequently do you use audio/music production technology (e.g. recording, mixing, synthesis technology)?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
 * years_actively_making_music - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively creating, practicing, or performing music."
-* frequency_making_music - The participant's response to the question: "How frequently do you create, practice, or perform music?"
+* frequency_making_music - The participant's response to the question: "How frequently do you create, practice, or perform music?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
 * years_actively_singing - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively singing."
-* frequency_singing - The participant's response to the question: "How frequently do you sing?"
+* frequency_singing - The participant's response to the question: "How frequently do you sing?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
