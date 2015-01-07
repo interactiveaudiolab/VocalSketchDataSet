@@ -435,5 +435,5 @@ participant_id,age,gender,hearing_problems,speech_problems,years_actively_using_
 5114140502786048,66,m,False,False,0.0,Never,0.0,Less than once or twice a year,144.0,Once or twice a week
 5384280121278464,68,f,False,False,0.0,Never,0.0,Never,0.0,Never
 5956527470936064,286,m,False,False,51.0,Once or twice a week,98.0,More than once or twice a week,27.0,More than once or twice a week
-4871574171680768,1984,m,False,False,13.0,Once or twice a month,13.0,Once or twice a month,13.0,More than once or twice a week
-4885515635523584,1984,m,False,False,26.0,Once or twice a month,26.0,Once or twice a month,26.0,Once or twice a month
+4871574171680768,30,m,False,False,13.0,Once or twice a month,13.0,Once or twice a month,13.0,More than once or twice a week
+4885515635523584,30,m,False,False,26.0,Once or twice a month,26.0,Once or twice a month,26.0,Once or twice a month
