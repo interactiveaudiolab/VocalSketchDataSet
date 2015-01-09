@@ -74,7 +74,7 @@ Bryan Pardo
 * **audio\_concept\_subset** - The subset from which the stimulus concept comes from
 * **vocal\_imitation\_filename** - The audio filename of the vocal imitation
 * **participants\_vocal\_imitation\_description** - The description the participant (in the identification task) gave for the vocal imitation
-* **participants\_vocal\_imitation\_description\_confidence** - The confidence the participant reported having in the description for the vocal imitation on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confi- dent, Very confident*)
+* **participants\_vocal\_imitation\_description\_confidence** - The confidence the participant reported having in the description for the vocal imitation on 5-level Likert scale (*Not at all confident, Not so confident, Neutral, Confident, Very confident*)
 * **selection\_sound\_label** - The sound label of the participant's choice in forced-choice identification task
 * **selection\_sound\_label\_id** - The id of the sound label of the participant's choice in forced-choice identification task
 * **selection\_sound\_recording** - The filename of the sound recording of the participant's choice in forced-choice identification task
