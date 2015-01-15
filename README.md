@@ -107,7 +107,7 @@ Bryan Pardo
 * **frequency\_singing** - The participant's response to the question: "How frequently do you sing?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
 
 
-### Column descriptions for everyday_filename_translation.csv
+### Column descriptions for 'everyday_filename_translation.csv'
 This CSV file is for translating the filenames from the Marcel data set to the file naming convention used in this dataset.
-* *marcel_filename* - The name of the file in the Marcel data set
-* *vocalsketch_filename* - The name of the file when used in the VocalSketch data set
+* **marcel_filename** - The name of the file in the Marcel data set
+* **vocalsketch_filename** - The name of the file when used in the VocalSketch data set
