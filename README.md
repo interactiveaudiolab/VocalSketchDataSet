@@ -27,10 +27,11 @@ Bryan Pardo
 ## Description of directories
 * **vocal\_imitations/included** - This directory contains all of the vocal imitation recordings that met our inclusion criteria and were included in our analysis
 * **vocal\_imitations/excluded** - This directory contains all of the vocal imitation recordings that did not meet our inclusion criteria and were not included in our analysis
-* **sound\_recordings** - This directory contains the audio files for the referent 'sound recording' audio concepts. NOTE: If you want to obtain the 'everyday' sounds you must obtain them from http://marcellm.people.cofc.edu/confrontation%20sound%20naming/confront.htm since we cannot redistribute them. Use 'everyday_filename_translation.csv' to rename the files to the naming used in this data set.
+* **sound\_recordings** - This directory contains the audio files for the referent 'sound recording' instantiations of audio concepts. These are the sounds that contributors of vocal imitations listened to, prior to making their imitations. Here, we provide only those referent sounds we have permission to redistribute, which is all but the 'everyday' sounds. NOTE: If you want to obtain the 'everyday' sounds you must obtain them from http://marcellm.people.cofc.edu/confrontation%20sound%20naming/confront.htm since we cannot redistribute them. Use 'everyday_filename_translation.csv' to rename the files to the naming used in this data set.
 
 ## Description of the columns of the CSV files
 ### Column descriptions for sound\_recordings.csv
+The sound recordings that participants were asked to imitate vocally
 * **id** - The id of the sound recording
 * **sound\_label** - The label associated with the sound recording
 * **sound\_label\_id** - The id of the sound label
@@ -38,11 +39,13 @@ Bryan Pardo
 * **audio\_concept\_subset** - The audio concept subset from which this sound recording comes
 
 ### Column descriptions for sound\_labels.csv
+The text labels participants were asked to embody with vocal imitations
 * **id** - The id of the sound label
 * **label** - The label for the sound label
 * **audio\_concept\_subset** - The audio concept subset from which this sound label comes
 
 ### Column descriptions for vocal\_imitations.csv
+The recordings of vocal imitations provided by participants
 * **id** - Id of the vocal imitation
 * **filename** - Filename of the vocal imitation
 * **stimulus\_type** - ('sound label' or 'sound recording') The stimulus type used in the vocal imitation task
@@ -62,6 +65,7 @@ Bryan Pardo
 
 
 ### Column descriptions for identifications.csv
+The labels provided by participants who listened to vocal imitations
 * **id** - Id of the identification
 * **identification\_type** - ('sound label' or 'sound recording') The stimulus type used in the vocal imitation task
 * **training** - Boolean of whether this identification was for practice and discarded in analysis
@@ -94,6 +98,7 @@ Bryan Pardo
 
 
 ### Column descriptions for participant\_survey.csv
+The background survey data provided by both participants providing vocal imitations and those listening to and labeling vocal imitations
 * **participant\_id** - The id of the participant
 * **age** - The reported age of the participant
 * **gender** - The reported gender of the participant
