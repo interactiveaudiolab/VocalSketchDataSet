@@ -27,7 +27,7 @@ Bryan Pardo
 ## Description of directories
 * **vocal\_imitations/included** - This directory contains all of the vocal imitation recordings that met our inclusion criteria and were included in our analysis
 * **vocal\_imitations/excluded** - This directory contains all of the vocal imitation recordings that did not meet our inclusion criteria and were not included in our analysis
-* **sound\_recordings** - This directory contains the audio files for the referent 'sound recording' audio concepts. NOTE: If you want to obtain the 'everyday' sounds you must obtain them from http://marcellm.people.cofc.edu/confrontation%20sound%20naming/confront.htm since we cannot redistribute them.
+* **sound\_recordings** - This directory contains the audio files for the referent 'sound recording' audio concepts. NOTE: If you want to obtain the 'everyday' sounds you must obtain them from http://marcellm.people.cofc.edu/confrontation%20sound%20naming/confront.htm since we cannot redistribute them. Use 'everyday_filename_translation.csv' to rename the files to the naming used in this data set.
 
 ## Description of the columns of the CSV files
 ### Column descriptions for sound\_recordings.csv
@@ -105,3 +105,9 @@ Bryan Pardo
 * **frequency\_making\_music** - The participant's response to the question: "How frequently do you create, practice, or perform music?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
 * **years\_actively\_singing** - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively singing."
 * **frequency\_singing** - The participant's response to the question: "How frequently do you sing?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
+
+
+### Column descriptions for everyday_filename_translation.csv
+This CSV file is for translating the filenames from the Marcel data set to the file naming convention used in this dataset.
+* *marcel_filename* - The name of the file in the Marcel data set
+* *vocalsketch_filename* - The name of the file when used in the VocalSketch data set
