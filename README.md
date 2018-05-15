@@ -20,6 +20,10 @@ Mark Cartwright
 * mcartwright@gmail.com
 * http://www.markcartwright.com
 
+Bongjun Kim
+* bongjun@u.northwestern.edu
+* http://www.bongjunkim.com
+
 Bryan Pardo
 * pardo@northwestern.edu
 * http://www.bryanpardo.com
@@ -27,6 +31,8 @@ Bryan Pardo
 ## Description of directories
 * **vocal\_imitations/included** - This directory contains all of the vocal imitation recordings that met our inclusion criteria and were included in our analysis
 * **vocal\_imitations/excluded** - This directory contains all of the vocal imitation recordings that did not meet our inclusion criteria and were not included in our analysis
+* **vocal\_imitations\_set2/included** - The second set of included imitations
+* **vocal\_imitations\_set2/excluded** - The second set of excluded imitations
 * **sound\_recordings** - This directory contains the audio files for the referent 'sound recording' instantiations of audio concepts. These are the sounds that contributors of vocal imitations listened to, prior to making their imitations. Here, we provide only those referent sounds we have permission to redistribute, which is all but the 'everyday' sounds.
 
 ## Description of the columns of the CSV files
@@ -44,7 +50,7 @@ The text labels participants were asked to embody with vocal imitations
 * **label** - The label for the sound label
 * **audio\_concept\_subset** - The audio concept subset from which this sound label comes
 
-### Column descriptions for vocal\_imitations.csv
+### Column descriptions for vocal\_imitations.csv and vocal\_imitations\_set2.csv
 The recordings of vocal imitations provided by participants
 * **id** - Id of the vocal imitation
 * **filename** - Filename of the vocal imitation
@@ -97,7 +103,7 @@ The labels provided by participants who listened to vocal imitations
 * **description\_match** - Boolean of whether participants\_vocal\_imitation\_description was scored as correct according to the Marcel scoring guidelines (therefore only relevant when audio\_concept\_subset is 'everyday'). See paper for more details.
 
 
-### Column descriptions for participant\_survey.csv
+### Column descriptions for participant\_survey.csv and participant\_survey\_set2.csv
 The background survey data provided by both participants providing vocal imitations and those listening to and labeling vocal imitations
 * **participant\_id** - The id of the participant
 * **age** - The reported age of the participant
