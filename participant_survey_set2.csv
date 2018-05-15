@@ -1,0 +1,288 @@
+,participant_id,age,gender,hearing_problems,speech_problems,years_actively_using_music_tech,frequency_using_music_tech,years_actively_making_music,frequency_making_music,years_actively_singing,frequency_singing
+0,5068254280155136,18,m,False,False,8.0,Once or twice a year,13.0,Once or twice a week,0.0,Once or twice a week
+1,5069476198350848,18,f,False,False,1.0,Once or twice a year,1.0,Once or twice a year,5.0,More than once or twice a week
+2,5090475232985088,18,m,False,False,10.0,More than once or twice a week,7.0,More than once or twice a week,0.0,Never
+3,6647492145840128,18,m,False,False,0.0,Never,58.0,Once or twice a week,58.0,Once or twice a week
+4,6528359550943232,19,m,False,False,86.0,Once or twice a week,96.0,Once or twice a week,2.0,Once or twice a year
+5,5131390030970880,20,m,False,False,36.0,Less than once or twice a year,10.0,Once or twice a year,15.0,More than once or twice a week
+6,5480426990731264,20,m,False,False,37.0,Less than once or twice a year,10.0,Once or twice a year,20.0,Once or twice a year
+7,5684049913839616,20,m,False,False,13.0,Once or twice a month,26.0,More than once or twice a week,0.0,Never
+8,6125487189393408,20,m,False,False,36.0,Once or twice a month,0.0,Less than once or twice a year,0.0,Less than once or twice a year
+9,5080845647872000,21,m,False,False,0.0,Never,0.0,Never,0.0,Never
+10,5403712163938304,21,m,False,False,0.0,Less than once or twice a year,1.0,Once or twice a year,0.0,Never
+11,5692201761767424,21,f,False,False,5.0,Once or twice a week,10.0,Once or twice a month,0.0,Never
+12,5753952654065664,21,m,False,False,5.0,More than once or twice a week,18.0,More than once or twice a week,16.0,More than once or twice a week
+13,4822219360305152,22,m,False,False,32.0,Once or twice a year,10.0,Once or twice a month,82.0,Once or twice a week
+14,4908146623512576,22,m,False,False,2.0,Once or twice a week,7.0,More than once or twice a week,3.0,Once or twice a week
+15,5141197186138112,22,m,False,False,8.0,Once or twice a year,7.0,Once or twice a week,7.0,More than once or twice a week
+16,5170285254803456,22,m,False,False,0.0,Never,3.0,Once or twice a year,12.0,More than once or twice a week
+17,5723348596162560,22,m,False,False,89.0,Less than once or twice a year,2.0,Less than once or twice a year,2.0,More than once or twice a week
+18,6047342004273152,22,m,False,False,5.0,Once or twice a week,67.0,Once or twice a year,0.0,Never
+19,6051403835375616,22,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+20,6421111667425280,22,m,False,False,8.0,Once or twice a year,14.0,Once or twice a week,14.0,Once or twice a week
+21,4821658330202112,23,m,False,False,0.0,Never,3.0,Once or twice a month,24.0,Less than once or twice a year
+22,4895663032631296,23,m,True,False,5.0,Once or twice a month,0.0,Never,0.0,Never
+23,5134120153776128,23,m,False,False,62.0,Once or twice a week,49.0,Once or twice a week,38.0,More than once or twice a week
+24,5205468955803648,23,m,False,False,67.0,More than once or twice a week,67.0,More than once or twice a week,0.0,Never
+25,5676582576324608,23,m,True,False,36.0,Less than once or twice a year,0.0,Never,15.0,Once or twice a week
+26,5682239853559808,23,m,False,False,0.0,Never,2.0,Once or twice a year,10.0,Once or twice a month
+27,5703090174951424,23,f,False,False,0.0,Less than once or twice a year,5.0,Less than once or twice a year,10.0,Once or twice a week
+28,5739407210446848,23,f,False,False,4.0,Once or twice a year,10.0,Once or twice a month,83.0,More than once or twice a week
+29,5747350215589888,23,m,False,False,72.0,Less than once or twice a year,3.0,Once or twice a month,2.0,Once or twice a week
+30,5761329797267456,23,f,False,False,5.0,Once or twice a week,10.0,More than once or twice a week,2.0,Once or twice a week
+31,5950437744181248,23,m,False,False,25.0,Once or twice a month,2.0,Once or twice a month,2.0,Once or twice a month
+32,6195376105193472,23,m,False,False,43.0,Once or twice a month,3.0,Once or twice a month,79.0,More than once or twice a week
+33,6311069236592640,23,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+34,4790990921531392,24,m,False,False,0.0,Never,2.0,Once or twice a week,10.0,More than once or twice a week
+35,4919286963372032,24,f,False,False,29.0,Once or twice a month,152.0,Once or twice a week,79.0,More than once or twice a week
+36,5020778651189248,24,m,False,False,9.0,Once or twice a month,0.0,Less than once or twice a year,0.0,Once or twice a week
+37,5075454121738240,24,m,False,False,0.0,Never,0.0,Never,0.0,Never
+38,5098651508539392,24,m,False,False,109.0,Once or twice a week,4.0,More than once or twice a week,60.0,Once or twice a month
+39,5105201467883520,24,m,False,False,0.0,Never,2.0,Once or twice a week,0.0,Never
+40,5109475228778496,24,f,False,False,5.0,More than once or twice a week,1.0,Less than once or twice a year,0.0,More than once or twice a week
+41,5184724934852608,24,f,False,False,24.0,Less than once or twice a year,0.0,Never,14.0,Once or twice a month
+42,5260026046316544,24,m,False,False,25.0,Once or twice a month,25.0,Once or twice a month,14.0,Once or twice a week
+43,5641799917895680,24,f,False,False,0.0,Never,0.0,Never,0.0,Never
+44,5713505873297408,24,m,False,False,0.0,Never,0.0,Less than once or twice a year,0.0,Once or twice a week
+45,5768641308000256,24,f,False,False,1.0,Less than once or twice a year,1.0,Less than once or twice a year,36.0,Once or twice a week
+46,6286687109906432,24,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+47,6481762242789376,24,m,False,False,40.0,More than once or twice a week,49.0,Less than once or twice a year,72.0,Less than once or twice a year
+48,4679597186613248,25,f,False,False,37.0,Once or twice a year,86.0,Once or twice a week,27.0,More than once or twice a week
+49,5129768278163456,25,m,False,False,15.0,Once or twice a week,20.0,More than once or twice a week,21.0,More than once or twice a week
+50,5145966210449408,25,f,False,False,25.0,Once or twice a year,10.0,Once or twice a week,10.0,More than once or twice a week
+51,5179401457106944,25,f,False,False,0.0,Never,0.0,Never,0.0,Never
+52,5370908680126464,25,m,False,False,40.0,Once or twice a month,125.0,Once or twice a month,58.0,Once or twice a month
+53,5421192009744384,25,m,False,False,0.0,Less than once or twice a year,5.0,Never,5.0,Never
+54,5631242217193472,25,m,True,False,1.0,More than once or twice a week,2.0,Less than once or twice a year,1.0,Once or twice a month
+55,5728116278296576,25,m,False,False,12.0,Once or twice a month,12.0,More than once or twice a week,2.0,More than once or twice a week
+56,5757052546711552,25,m,False,False,15.0,Once or twice a year,0.0,Never,0.0,Never
+57,5783797039628288,25,m,False,False,15.0,Once or twice a month,11.0,Once or twice a week,20.0,More than once or twice a week
+58,5950762551083008,25,f,False,False,16.0,Once or twice a month,134.0,Once or twice a month,8.0,More than once or twice a week
+59,6221652580892672,25,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+60,6244372421017600,25,m,False,False,47.0,More than once or twice a week,47.0,More than once or twice a week,47.0,More than once or twice a week
+61,6555031163633664,25,m,False,False,12.0,Less than once or twice a year,72.0,Once or twice a week,3.0,More than once or twice a week
+62,4837814923427840,26,m,False,False,34.0,Once or twice a month,34.0,Once or twice a month,0.0,Never
+63,5115103783419904,26,f,False,False,8.0,Once or twice a month,10.0,Once or twice a month,0.0,More than once or twice a week
+64,5147656280080384,26,m,False,False,49.0,Once or twice a month,72.0,Once or twice a month,76.0,Once or twice a week
+65,5164952650252288,26,m,False,False,0.0,Never,0.0,Never,0.0,Never
+66,5343572823900160,26,m,False,False,61.0,Once or twice a year,37.0,Once or twice a week,37.0,Once or twice a month
+67,5413187935535104,26,m,False,False,27.0,Once or twice a week,14.0,Once or twice a month,40.0,Once or twice a month
+68,5421799747616768,26,m,False,False,10.0,Once or twice a month,4.0,More than once or twice a week,2.0,More than once or twice a week
+69,5702480826466304,26,m,False,False,0.0,Never,0.0,Never,0.0,Never
+70,5910666347020288,26,f,False,False,79.0,Less than once or twice a year,99.0,Once or twice a week,80.0,Once or twice a week
+71,6214074379534336,26,m,False,False,0.0,Never,25.0,Never,74.0,More than once or twice a week
+72,6385925953159168,26,m,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Once or twice a week
+73,6546292515799040,26,f,False,False,0.0,Never,0.0,Never,0.0,Never
+74,4782118592839680,27,m,False,False,7.0,Once or twice a month,7.0,Once or twice a month,0.0,Never
+75,4915553697267712,27,m,False,False,0.0,Never,0.0,Never,0.0,Never
+76,4994182066208768,27,f,False,False,77.0,Once or twice a year,0.0,Never,0.0,Never
+77,5053365104934912,27,f,False,False,72.0,Once or twice a year,48.0,Never,48.0,Once or twice a year
+78,5081280915963904,27,m,False,False,15.0,Once or twice a month,2.0,Once or twice a month,1.0,Once or twice a month
+79,5122237187227648,27,f,False,False,1.0,Less than once or twice a year,10.0,Once or twice a month,23.0,Once or twice a week
+80,5171233771487232,27,m,False,False,0.0,Never,9.0,Once or twice a month,0.0,Never
+81,5617793600847872,27,m,False,False,28.0,More than once or twice a week,98.0,Once or twice a month,56.0,Once or twice a month
+82,5642779036221440,27,m,False,False,1.0,More than once or twice a week,2.0,Once or twice a month,0.0,Never
+83,5652536396611584,27,m,False,False,0.0,Never,0.0,Never,0.0,Never
+84,5740423507083264,27,m,False,False,5.0,Once or twice a month,2.0,Once or twice a month,4.0,Once or twice a year
+85,5751960594546688,27,f,False,False,0.0,Never,0.0,Never,0.0,Never
+86,5993928583020544,27,f,False,False,2.0,Once or twice a month,2.0,Once or twice a month,3.0,Once or twice a week
+87,6180743554269184,27,m,False,False,82.0,Once or twice a week,72.0,Once or twice a month,0.0,Never
+88,6315378430967808,27,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+89,6408785379721216,27,f,False,False,1.0,Once or twice a year,12.0,Once or twice a year,0.0,Less than once or twice a year
+90,4867848019116032,28,f,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+91,5093108584808448,28,f,False,False,1.0,Once or twice a month,1.0,Once or twice a month,0.0,Never
+92,5199294671880192,28,f,False,False,5.0,Once or twice a week,2.0,Once or twice a week,3.0,Once or twice a week
+93,5225096151040000,28,m,False,False,0.0,Never,0.0,Never,0.0,Never
+94,5334840081645568,28,f,False,False,13.0,Less than once or twice a year,72.0,Once or twice a month,0.0,Once or twice a year
+95,5465875238879232,28,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+96,5566537461137408,28,f,False,False,0.0,Never,0.0,Never,0.0,Never
+97,5613183624544256,28,m,False,False,36.0,Less than once or twice a year,36.0,Once or twice a year,0.0,Less than once or twice a year
+98,5680391541227520,28,f,False,False,1.0,Once or twice a month,1.0,Once or twice a year,14.0,Once or twice a week
+99,6047562524000256,28,f,False,False,70.0,Once or twice a month,50.0,Once or twice a month,0.0,Never
+100,6234336827277312,28,m,False,False,0.0,Never,0.0,Never,0.0,Never
+101,6315521507065856,28,m,False,False,2.0,Once or twice a month,4.0,Once or twice a week,3.0,More than once or twice a week
+102,6325194578722816,28,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+103,6565354117529600,28,m,False,False,0.0,Never,0.0,Never,0.0,Never
+104,4620794252492800,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+105,4852034217967616,29,m,False,False,151.0,More than once or twice a week,151.0,More than once or twice a week,21.0,More than once or twice a week
+106,4891936477413376,29,m,False,False,0.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Never
+107,4992918272081920,29,m,False,False,106.0,More than once or twice a week,55.0,More than once or twice a week,51.0,More than once or twice a week
+108,5153955923361792,29,m,False,False,88.0,More than once or twice a week,25.0,Once or twice a month,12.0,Less than once or twice a year
+109,5505046951231488,29,m,False,False,25.0,Once or twice a month,0.0,Never,0.0,Never
+110,5679974795182080,29,m,False,False,15.0,More than once or twice a week,1.0,Less than once or twice a year,0.0,Never
+111,5769848999116800,29,f,False,False,0.0,Never,0.0,Never,15.0,More than once or twice a week
+112,5986572914655232,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+113,6010307038150656,29,m,False,False,18.0,Once or twice a month,20.0,Once or twice a month,3.0,More than once or twice a week
+114,6030051673899008,29,m,False,False,15.0,More than once or twice a week,15.0,More than once or twice a week,10.0,More than once or twice a week
+115,6554664749236224,29,f,False,False,1.0,Less than once or twice a year,0.0,Never,0.0,Never
+116,6594141404266496,29,f,False,False,0.0,Never,0.0,Never,0.0,Never
+117,4580495648096256,30,m,False,False,0.0,Less than once or twice a year,0.0,Once or twice a year,5.0,Once or twice a week
+118,4650253433176064,30,m,False,False,29.0,Once or twice a month,25.0,Once or twice a year,0.0,Never
+119,4881363073236992,30,f,True,True,15.0,Once or twice a month,72.0,Less than once or twice a year,0.0,Never
+120,5031290046775296,30,m,False,False,10.0,More than once or twice a week,10.0,More than once or twice a week,15.0,More than once or twice a week
+121,5198952014020608,30,m,False,False,0.0,Never,0.0,Never,0.0,Never
+122,5269513629073408,30,m,False,False,1.0,Less than once or twice a year,0.0,Never,0.0,Never
+123,5674976526991360,30,f,False,False,1.0,Never,1.0,Less than once or twice a year,0.0,Never
+124,5751270849642496,30,m,False,False,0.0,Less than once or twice a year,0.0,Never,30.0,Once or twice a week
+125,5756292874371072,30,m,False,False,0.0,Never,2.0,Never,0.0,Never
+126,5762244625301504,30,m,False,False,0.0,Never,0.0,Never,0.0,Never
+127,6138819304751104,30,f,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+128,6142665984835584,30,m,False,False,2.0,Once or twice a year,7.0,Once or twice a month,10.0,More than once or twice a week
+129,6193671405830144,30,f,False,False,0.0,Never,0.0,Never,0.0,Never
+130,6431590045450240,30,m,False,False,24.0,Less than once or twice a year,0.0,Never,15.0,Once or twice a month
+131,4758777190416384,31,m,False,False,0.0,Once or twice a year,19.0,Once or twice a week,27.0,More than once or twice a week
+132,4846628464754688,31,f,False,False,0.0,Never,88.0,Once or twice a week,34.0,More than once or twice a week
+133,4856054307356672,31,m,False,False,0.0,Never,2.0,Once or twice a week,0.0,Never
+134,5157903266742272,31,m,False,False,82.0,Once or twice a year,20.0,Once or twice a month,11.0,Once or twice a year
+135,5198723978100736,31,f,False,False,70.0,Once or twice a month,0.0,Never,7.0,Once or twice a year
+136,5293786636746752,31,m,False,False,0.0,Never,0.0,Never,0.0,Never
+137,5424469204008960,31,m,False,False,80.0,Less than once or twice a year,0.0,Once or twice a year,24.0,Once or twice a month
+138,5731197246242816,31,f,False,False,18.0,Once or twice a month,30.0,More than once or twice a week,66.0,More than once or twice a week
+139,5917501787471872,31,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+140,6524588435439616,31,f,False,False,2.0,Never,0.0,Never,1.0,More than once or twice a week
+141,5226990500052992,32,m,False,False,0.0,Never,0.0,Never,0.0,Never
+142,5374583561519104,32,m,False,False,0.0,Never,3.0,Less than once or twice a year,0.0,Less than once or twice a year
+143,5723866542374912,32,m,False,False,37.0,Once or twice a month,37.0,Once or twice a month,0.0,Never
+144,5793457897472000,32,m,False,False,1.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Once or twice a month
+145,5821834612178944,32,f,False,False,0.0,Never,0.0,Never,30.0,More than once or twice a week
+146,5902411419877376,32,m,False,False,4.0,More than once or twice a week,2.0,More than once or twice a week,8.0,More than once or twice a week
+147,5989788234547200,32,f,False,False,1.0,Once or twice a month,72.0,Less than once or twice a year,7.0,Once or twice a month
+148,6462953507258368,32,f,False,False,0.0,Never,1.0,Never,0.0,Once or twice a month
+149,6480451740893184,32,f,False,False,72.0,Once or twice a month,72.0,Once or twice a month,0.0,Never
+150,4504116097187840,33,m,False,False,37.0,Once or twice a year,0.0,Never,39.0,Once or twice a month
+151,4533411800678400,33,m,False,False,29.0,More than once or twice a week,27.0,Once or twice a month,34.0,More than once or twice a week
+152,4701144500666368,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+153,4836609111359488,33,m,False,False,0.0,Never,0.0,Never,0.0,Less than once or twice a year
+154,4898535560445952,33,m,False,False,49.0,Once or twice a month,8.0,More than once or twice a week,26.0,More than once or twice a week
+155,4913290249502720,33,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+156,5075109987483648,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+157,5196459188158464,33,f,False,False,39.0,Less than once or twice a year,26.0,Once or twice a month,27.0,Once or twice a week
+158,5298716722331648,33,m,False,False,0.0,Never,13.0,Once or twice a year,0.0,Never
+159,5387487790759936,33,m,False,False,0.0,Never,0.0,Less than once or twice a year,0.0,Once or twice a week
+160,5684609735983104,33,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+161,5686536431468544,33,m,False,False,28.0,Once or twice a year,44.0,More than once or twice a week,0.0,Never
+162,6165174834692096,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+163,6243685763121152,33,f,False,False,0.0,Never,0.0,Never,92.0,More than once or twice a week
+164,6320998664110080,33,m,False,False,0.0,Never,0.0,Once or twice a week,57.0,More than once or twice a week
+165,6327828735852544,33,m,False,False,15.0,Once or twice a week,5.0,More than once or twice a week,0.0,Once or twice a week
+166,6331260817375232,33,m,False,False,0.0,Never,0.0,Never,0.0,Never
+167,6420676533551104,33,m,False,False,25.0,More than once or twice a week,25.0,More than once or twice a week,0.0,Never
+168,4587605966454784,34,m,False,False,72.0,Less than once or twice a year,2.0,Once or twice a month,25.0,Once or twice a week
+169,4771890128224256,34,f,False,False,24.0,Never,0.0,Never,0.0,Less than once or twice a year
+170,4817772995411968,34,m,False,False,22.0,Once or twice a month,10.0,Less than once or twice a year,21.0,Once or twice a month
+171,4875722304782336,34,m,False,False,64.0,More than once or twice a week,74.0,Once or twice a month,0.0,Never
+172,5156685509296128,34,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+173,5416394531274752,34,f,False,False,17.0,Less than once or twice a year,0.0,Never,0.0,Once or twice a month
+174,5670249378611200,34,f,False,False,2.0,Less than once or twice a year,0.0,Never,0.0,Never
+175,5686306919153664,34,m,False,False,10.0,Once or twice a week,0.0,Never,0.0,Never
+176,5757183006343168,34,m,False,False,72.0,Never,0.0,Never,0.0,Less than once or twice a year
+177,5870898842173440,34,m,False,False,1.0,Once or twice a year,10.0,More than once or twice a week,30.0,More than once or twice a week
+178,6285417544417280,34,m,False,False,46.0,Once or twice a year,44.0,Once or twice a month,44.0,Once or twice a month
+179,6390371244310528,34,m,False,False,0.0,Never,0.0,Never,0.0,Never
+180,6407834581336064,34,f,False,False,0.0,Never,0.0,Never,0.0,Never
+181,6608136823635968,34,f,False,False,0.0,Never,0.0,Never,14.0,Once or twice a month
+182,5073650503909376,35,m,False,False,68.0,Once or twice a year,10.0,Less than once or twice a year,40.0,Once or twice a year
+183,5179973627281408,35,f,False,False,3.0,Once or twice a year,20.0,More than once or twice a week,30.0,More than once or twice a week
+184,5187395464986624,35,f,False,False,12.0,Less than once or twice a year,12.0,Less than once or twice a year,0.0,Never
+185,5345068546260992,35,m,False,False,0.0,Never,3.0,More than once or twice a week,0.0,Never
+186,5667298736078848,35,m,False,False,80.0,More than once or twice a week,80.0,More than once or twice a week,0.0,Never
+187,5673053186949120,35,f,True,True,0.0,Never,5.0,Less than once or twice a year,0.0,Never
+188,5704093720903680,35,m,False,False,0.0,Never,0.0,Never,0.0,Never
+189,5764321241989120,35,m,False,False,5.0,Once or twice a month,5.0,Once or twice a week,5.0,More than once or twice a week
+190,5999789334331392,35,m,False,False,15.0,More than once or twice a week,20.0,More than once or twice a week,27.0,Once or twice a week
+191,6225779507593216,35,m,False,False,0.0,Never,0.0,Never,0.0,Never
+192,4742740185186304,36,f,False,False,0.0,Never,0.0,Never,0.0,Never
+193,4778327881547776,36,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+194,4807932017377280,36,m,False,False,5.0,Less than once or twice a year,15.0,Once or twice a month,0.0,Less than once or twice a year
+195,5108514900934656,36,m,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+196,5534530291105792,36,f,False,False,1.0,Less than once or twice a year,10.0,More than once or twice a week,10.0,More than once or twice a week
+197,5681275767619584,36,f,False,False,0.0,Once or twice a month,3.0,Never,5.0,More than once or twice a week
+198,6310560551403520,36,f,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Never
+199,6529386450780160,36,m,False,False,0.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Less than once or twice a year
+200,6535310955511808,36,m,False,False,38.0,Less than once or twice a year,72.0,Less than once or twice a year,36.0,Once or twice a month
+201,6572503224811520,36,f,False,False,27.0,Once or twice a month,26.0,Once or twice a month,37.0,More than once or twice a week
+202,4757409243332608,37,f,False,False,3.0,Once or twice a month,0.0,Never,0.0,Never
+203,5657019268726784,37,m,False,False,0.0,More than once or twice a week,72.0,More than once or twice a week,12.0,Once or twice a month
+204,6139201556840448,37,m,False,False,0.0,Never,0.0,Never,0.0,Never
+205,6265616939876352,37,m,False,False,20.0,Once or twice a year,10.0,Never,0.0,Once or twice a week
+206,6462218530979840,37,m,False,False,1.0,Once or twice a month,4.0,Once or twice a month,0.0,Never
+207,4890703419146240,38,f,False,False,0.0,Never,0.0,Never,0.0,Never
+208,5120605368090624,38,f,False,False,90.0,Once or twice a week,0.0,More than once or twice a week,49.0,More than once or twice a week
+209,5166871695327232,38,m,False,False,62.0,Once or twice a week,27.0,Once or twice a month,64.0,Once or twice a week
+210,5368477728636928,38,f,False,False,35.0,Once or twice a month,10.0,Once or twice a month,5.0,Once or twice a month
+211,5651628682117120,38,f,False,False,34.0,Once or twice a week,68.0,Once or twice a month,94.0,More than once or twice a week
+212,5683045831016448,38,f,False,False,0.0,Never,0.0,Never,0.0,Never
+213,5798488780570624,38,f,False,False,1.0,Less than once or twice a year,1.0,Less than once or twice a year,30.0,More than once or twice a week
+214,5872709573541888,38,f,False,False,72.0,Once or twice a year,7.0,Less than once or twice a year,0.0,Less than once or twice a year
+215,4812805597298688,39,f,False,False,0.0,Never,0.0,Never,0.0,Never
+216,5582674190139392,39,f,False,False,0.0,Never,0.0,Never,0.0,Never
+217,5962572100534272,39,m,False,False,0.0,Never,0.0,Never,0.0,Never
+218,6016452465262592,39,m,False,False,1.0,Once or twice a year,0.0,Never,0.0,Never
+219,6304592157474816,39,m,False,False,110.0,More than once or twice a week,44.0,More than once or twice a week,0.0,Never
+220,4799756949782528,40,m,False,False,36.0,Once or twice a year,8.0,Once or twice a month,72.0,Less than once or twice a year
+221,5386676444594176,40,f,False,False,126.0,Once or twice a year,136.0,Once or twice a month,132.0,More than once or twice a week
+222,5638574129020928,40,f,False,False,0.0,Never,0.0,Never,0.0,Never
+223,5731716400414720,40,f,False,False,0.0,Never,0.0,More than once or twice a week,38.0,More than once or twice a week
+224,6215736263442432,40,m,False,False,1.0,Once or twice a month,1.0,Once or twice a month,77.0,More than once or twice a week
+225,6242142661902336,40,m,False,False,49.0,Once or twice a week,74.0,Once or twice a month,63.0,Once or twice a year
+226,6253835978801152,40,m,False,False,10.0,Once or twice a week,7.0,Once or twice a month,0.0,Never
+227,5169748518109184,41,m,False,False,80.0,More than once or twice a week,70.0,Once or twice a week,90.0,More than once or twice a week
+228,5517307203813376,41,f,False,False,0.0,Never,0.0,More than once or twice a week,38.0,More than once or twice a week
+229,5756254085447680,41,m,False,False,2.0,Once or twice a year,12.0,Once or twice a month,4.0,Once or twice a year
+230,6241155624730624,41,f,False,False,0.0,Never,0.0,Never,20.0,More than once or twice a week
+231,6265747131072512,41,f,False,False,20.0,Once or twice a month,25.0,Once or twice a week,25.0,Once or twice a week
+232,4831648155697152,42,f,False,False,0.0,Never,0.0,Never,72.0,Less than once or twice a year
+233,5648867420798976,42,f,False,True,0.0,Never,36.0,Less than once or twice a year,26.0,Once or twice a month
+234,6234271731679232,42,m,False,False,10.0,Less than once or twice a year,20.0,Less than once or twice a year,0.0,Never
+235,4719935519457280,43,m,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Never
+236,5354843354955776,43,m,False,False,0.0,Never,20.0,Once or twice a month,0.0,Less than once or twice a year
+237,4889228634750976,44,m,False,False,0.0,Never,0.0,Never,0.0,Never
+238,5149322995826688,44,m,False,False,0.0,Never,0.0,Never,0.0,Never
+239,4905736475770880,45,f,False,False,0.0,Never,0.0,Never,105.0,Once or twice a week
+240,5066985251536896,45,m,False,False,58.0,Once or twice a week,30.0,Once or twice a month,44.0,Once or twice a year
+241,5319618180677632,45,m,False,False,88.0,Once or twice a week,33.0,More than once or twice a week,15.0,More than once or twice a week
+242,5656378379075584,45,f,False,False,15.0,More than once or twice a week,8.0,More than once or twice a week,5.0,More than once or twice a week
+243,6000967765983232,45,m,False,False,0.0,Never,0.0,Once or twice a year,0.0,Once or twice a year
+244,6367500140806144,45,f,False,False,0.0,Never,0.0,Less than once or twice a year,0.0,Once or twice a year
+245,4694683796111360,46,m,False,False,0.0,Less than once or twice a year,0.0,Never,0.0,Never
+246,5127936071958528,46,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a week
+247,5685570869133312,46,m,False,False,2.0,Once or twice a week,25.0,More than once or twice a week,20.0,More than once or twice a week
+248,4676778748542976,47,f,False,True,0.0,Less than once or twice a year,0.0,Never,10.0,More than once or twice a week
+249,4817904797220864,47,m,False,False,0.0,Never,0.0,Never,0.0,Never
+250,5174790943932416,48,f,False,False,36.0,Never,107.0,Once or twice a week,107.0,Once or twice a month
+251,6341176688902144,48,m,False,False,10.0,Once or twice a year,30.0,Once or twice a month,0.0,Less than once or twice a year
+252,6612062692179968,48,f,False,False,5.0,Less than once or twice a year,10.0,Once or twice a month,1.0,Less than once or twice a year
+253,5138397404332032,49,m,False,False,30.0,More than once or twice a week,0.0,Never,0.0,Never
+254,5637641986899968,49,f,False,False,5.0,Once or twice a year,1.0,Less than once or twice a year,2.0,Once or twice a week
+255,5932140378193920,49,m,False,True,79.0,Once or twice a month,4.0,Less than once or twice a year,22.0,More than once or twice a week
+256,6324279750688768,49,f,False,False,0.0,Never,0.0,Once or twice a week,42.0,More than once or twice a week
+257,5671321778257920,50,f,False,False,72.0,Less than once or twice a year,40.0,Once or twice a year,0.0,Less than once or twice a year
+258,5719848868904960,50,f,False,False,48.0,Less than once or twice a year,0.0,Less than once or twice a year,120.0,More than once or twice a week
+259,5665497936822272,51,f,False,False,72.0,Once or twice a month,44.0,Less than once or twice a year,40.0,Once or twice a week
+260,5927259416297472,51,m,False,False,97.0,More than once or twice a week,40.0,More than once or twice a week,35.0,More than once or twice a week
+261,5983342562377728,51,f,False,False,0.0,Never,0.0,Never,0.0,Never
+262,6465361373298688,51,f,False,False,121.0,Less than once or twice a year,12.0,Less than once or twice a year,25.0,More than once or twice a week
+263,5137529284067328,52,f,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+264,6331629245038592,52,f,False,False,0.0,Never,0.0,Never,50.0,Once or twice a week
+265,5153437574496256,53,f,False,False,5.0,Less than once or twice a year,14.0,Less than once or twice a year,13.0,More than once or twice a week
+266,5660231770046464,53,f,False,False,64.0,Less than once or twice a year,0.0,Less than once or twice a year,0.0,Never
+267,5684923537031168,53,m,False,False,60.0,Once or twice a month,0.0,Never,0.0,Never
+268,6609173521367040,53,f,False,False,17.0,Once or twice a month,87.0,Once or twice a month,74.0,Less than once or twice a year
+269,5119288557961216,55,f,True,False,0.0,Never,0.0,Never,0.0,Never
+270,5722646637445120,56,f,False,False,0.0,Never,27.0,Once or twice a year,50.0,More than once or twice a week
+271,6509327611330560,56,f,False,True,0.0,Never,0.0,Never,84.0,Once or twice a week
+272,6611705941458944,56,m,False,False,0.0,Never,25.0,Once or twice a month,50.0,Once or twice a week
+273,5168841474703360,57,f,False,False,4.0,Once or twice a year,35.0,Once or twice a month,0.0,Once or twice a month
+274,4718540326174720,58,f,False,False,0.0,Never,0.0,Never,12.0,Less than once or twice a year
+275,5700239927279616,58,m,False,False,0.0,Never,0.0,Never,0.0,More than once or twice a week
+276,6209570301018112,58,f,False,False,0.0,Never,0.0,Never,0.0,Never
+277,5456569789579264,59,f,False,False,0.0,Never,0.0,Never,0.0,Once or twice a month
+278,5022996464926720,60,f,False,False,0.0,Never,0.0,Less than once or twice a year,0.0,Less than once or twice a year
+279,5636432282517504,60,m,False,False,4.0,More than once or twice a week,52.0,Once or twice a month,0.0,Never
+280,6450960079519744,61,f,False,False,10.0,Once or twice a month,50.0,Once or twice a month,55.0,More than once or twice a week
+281,4609228442435584,63,f,False,False,77.0,Less than once or twice a year,74.0,Less than once or twice a year,0.0,Never
+282,5080675459792896,65,f,False,False,3.0,Less than once or twice a year,0.0,Never,42.0,Once or twice a year
+283,6242300233515008,65,f,False,False,0.0,Never,15.0,Never,60.0,More than once or twice a week
+284,6495549356244992,65,f,False,False,0.0,Once or twice a month,0.0,Never,0.0,Less than once or twice a year
+285,5430797972537344,69,m,False,False,20.0,Once or twice a year,20.0,Once or twice a week,45.0,Once or twice a week
+286,5155206429933568,70,m,False,False,0.0,Never,0.0,Never,0.0,Never
