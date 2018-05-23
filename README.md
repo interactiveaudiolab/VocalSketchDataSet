@@ -115,7 +115,7 @@ The background survey data provided by both participants providing vocal imitati
 * **years\_actively\_making\_music** - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively creating, practicing, or performing music."
 * **frequency\_making\_music** - The participant's response to the question: "How frequently do you create, practice, or perform music?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
 * **years\_actively\_singing** - The participant's response to the question: "Estimate (in years and months, e.g. 5 years 2 months) how long you have been actively singing."
-* **frequency\_singing** - The participant's response to the question: "How frequently do you sing?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)
+* **frequency\_singing** - The participant's response to the question: "How frequently do you sing?" (*Never, Less than once or twice a year, Once or twice a year, Once or twice a month, Once or twice a week, More than once or twice a week*)   
 
 
 ### Column descriptions for everyday_filename_translation.csv
